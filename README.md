@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my UG BTech Degree with specifications in Information Technology <br>at Sri Shakthi Institute of Engineering and Technology.<br>I'm looking to collaborate with online project works based on Full-stack Development.<br>I am looking for help with my project works and internships.<br>I'm currently learning HTML, CSS and C Programming in first year.<br>  <br>
+I am currently working on my UG BTech Degree with specifications in Information Technology <br>at Sri Shakthi Institute of Engineering and Technology.<br>I'm looking to collaborate with online project works based on Full-stack Development.<br>I am looking for help with my project works and internships.<br>  <br>
 
 
 ## 🌐 Socials:
